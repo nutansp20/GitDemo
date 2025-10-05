@@ -13,6 +13,12 @@ public class CalculatorF {
 		obj2.Sub(num1, num2);
 		obj3.Mul(num1, num2);
 		obj4.Div(num1, num2);
+		obj3.Mul(num1, num2);
+
+		obj3.Mul(num1, num2);
+
+		obj3.Mul(num1, num2);
+
 	}
 
 }
