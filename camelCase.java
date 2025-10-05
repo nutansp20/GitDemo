@@ -22,6 +22,9 @@ public class camelCase {
 
 		String newstr1 = sb.toString();
 		System.out.println("camelcase > "+newstr1);
+		System.out.println("camelcase > "+newstr1);
+		System.out.println("camelcase > "+newstr1);
+
 	}
 
 }
